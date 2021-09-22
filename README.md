@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tanujoshi24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Tanvi joshi 
+- 👀 I’m interested in developing Android application 
+- 🌱 I’m currently pursuing bachlors in computer science currently in third year 
 - 💞️ I’m looking to collaborate on ..android application 
 - 📫 How to reach me ...
 joshitgcs19@student.mes.ac.in
